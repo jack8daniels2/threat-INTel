@@ -228,7 +228,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Advanced Persistent Threats: A Decade in Review](2011/C5_APT_ADecadeInReview.pdf) | Jun | Command Five Pty Ltd |
 | [The Lurid Downloader](2011/wp_dissecting-lurid-apt.pdf) | Aug | Trend Micro |
 | [Revealed: Operation Shady Rat](2011/wp-operation-shady-rat.pdf) | Aug | McAfee |
-| [Enter the Cyber-dragon](2011/enter-the-cyberdragon-2011.pdf) | Sept 2011 | Vanity Fair |
+| [Enter the Cyber-dragon](2011/enter-the-cyberdragon-2011.pdf) | Sep | Vanity Fair |
 | [SK Hack by an Advanced Persistent Threat](2011/C5_APT_SKHack.pdf) | Sep | Command Five Pty Ltd |
 | [Alleged APT Intrusion Set: "1.php" Group](2011/tb_advanced_persistent_threats.pdf) | Oct | Zscaler |
 | [The Nitro Attacks: Stealing Secrets From The Chemical Industry](2011/the_nitro_attacks.pdf) | Oct | Symantec |
@@ -251,8 +251,8 @@ Note: If you are looking for every type of publicly available documents and note
 |----------------|--------|--------|
 | [Tracking GhostNet: Investigating a Cyber Espionage Network](200x/ghostnet.pdf) | Mar | TheSecDevGroup |
 | [DECLAWING THE DRAGON: WHY THE U.S. MUST COUNTER CHINESE CYBER-WARRIORS](200x/DECLAWING-THE-DRAGON-2009.pdf) | Jun | NA |
-| [Capability of the People\92s Republic of China to Conduct Cyber Warfare and Computer Network Exploitation](200x/Cyber-030-2009.pdf) | Oct | 
-| [Russian Cyberwar on Georgia](200x/556_10535_798405_Annex87_CyberAttacks.pdf) | Nov | georgiaupdate.gov.ge | Northrop Grumman |
+| [Capability of the People\92s Republic of China to Conduct Cyber Warfare and Computer Network Exploitation](200x/Cyber-030-2009.pdf) | Oct | Northrop Grumman | 
+| [Russian Cyberwar on Georgia](200x/556_10535_798405_Annex87_CyberAttacks.pdf) | Nov | georgiaupdate.gov.ge |
 
 #### References
 
