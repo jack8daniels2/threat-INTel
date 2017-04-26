@@ -18,6 +18,8 @@ Note: If you are looking for every type of publicly available documents and note
 | [From Shamoon to StoneDrill](2017/Kaspersky_Report_Shamoon_StoneDrill_final.pdf) | Mar | Kaspersky |
 | [LAZARUS UNDER THE HOOD](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
 | [Appendix B: Moonlight Maze Technical Report](2017/Penquins_Moonlit_Maze_AppendixB.pdf) | Apr | Kaspersky |
+| [Callisto Group](2017/callisto-group.pdf) | Apr | F-Secure |
+| [McAfee Labs Threats Report](2017/rp-quarterly-threats-mar-2017.pdf) | Apr | McAfee |
 
 ### 2016
 
@@ -121,6 +123,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Putter Panda](2014/putter-panda.pdf) | Jun | Crowdstrike |
 | [Anatomy Of The Attack: Zombie Zero](2014/TrapX_ZOMBIE_Report_Final.pdf) | Jun | Trapx |
 | [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](2014/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf) | Jun | Symantec |
+| [Police Story: Hacking Team Government Surveillance Malware](2014/Police-Story-Hacking-Teams-Government-Surveillance-Malware.pdf) Jun | The Citizen Lab |
 | [Energetic Bear _ Crouching Yeti](2014/EB-YetiJuly2014-Public.pdf) | Jul | Kaspersky |
 | [The Eye Of The Tiger (Pitty Tiger)](2014/Pitty_Tiger_Final_Report.pdf) | Jul | Airbus |
 | [Crouching Yeti: Appendixes](2014/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf) | Jul | Kaspersky |
