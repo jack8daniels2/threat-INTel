@@ -2,7 +2,7 @@
 
 Archive of publicly available threat/cybercrime INTel reports (mostly APT Reports but not limited to). Useful as a reference when you emulate threat actors on a daily basis. Please create an issue if I'm missing a relevant Report.
 
-Note: If you are looking for every type of publicly available documents and notes related to APT have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
+Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
 ### 2017
 
@@ -85,7 +85,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [APT28 Targets Financial Markets: Zero Day Hashes Released](2015/FSOFACY.pdf) | May 2015 | Root9b |
 | [Analysis On APT-To-Be Attack That Focusing On China's Government Agency](2015/ANALYSIS-ON-APT-TO-BE-ATTACK-THAT-FOCUSING-ON-CHINAS-GOVERNMENT-AGENCY-.pdf) | May 2015 | Antiy CERT |
 | [The Msnmm Campaigns: The Earliest Naikon APT Campaigns](2015/TheNaikonAPT-MsnMM2.pdf) | May 2015 | Kaspersky |
-| [Operation Oil Tanker: The Phantom Menace](2015/oil-tanker-en.pdf | May 2015 | PandaLabs |
+| [Operation Oil Tanker: The Phantom Menace](2015/oil-tanker-en.pdf) | May 2015 | PandaLabs |
 | [Duqu 2.0: A Comparison To Duqu](2015/duqu2_crysys.pdf) | Jun 2015 | CrySyS Lab |
 | [Operation Lotusblossom](2015/unit42-operation-lotus-blossom.pdf) | Jun 2015 | PaloAlto |
 | [An Iranian Cyber-Attack Campaign Against Targets In The Middle East](2015/Thamar-Reservoir.pdf) | Jun 2015 | ClearSky |
