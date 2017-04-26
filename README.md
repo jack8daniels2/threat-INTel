@@ -123,7 +123,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](2014/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf) | Jun | Symantec |
 | [Energetic Bear _ Crouching Yeti](2014/EB-YetiJuly2014-Public.pdf) | Jul | Kaspersky |
 | [The Eye Of The Tiger (Pitty Tiger)](2014/Pitty_Tiger_Final_Report.pdf) | Jul | Airbus |
-| [Crouching Yeti: Appendixes](2014/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf) | jul 2014 | Kaspersky |
+| [Crouching Yeti: Appendixes](2014/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf) | Jul | Kaspersky |
 | [Operation Arachnophobia Caught In The Spider's Web](2014/ThreatConnect_Operation_Arachnophobia_Report.pdf) | Aug | Threat Connect |
 | [Sidewinder Targeted Attack Against Android In The Golden Age Of Ad Libraries](2014/fireeye-sidewinder-targeted-attack.pdf) | Aug | FireEye |
 | [Profiling An Enigma: The Mystery Of North Korea's Cyber Threat Landscape](2014/HPSR_SecurityBriefing_Episode16_NorthKorea.pdf) | Aug | HP |
