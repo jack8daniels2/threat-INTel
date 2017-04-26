@@ -10,7 +10,6 @@ Note: If you are looking for every type of publicly available documents and note
 |----------------|--------|--------|
 | [APT28: A WINDOW INTO RUSSIAS CYBER ESPIONAGE OPERATIONS?](2017/rpt-apt28.pdf) | Jan | FireEye |
 | [APT28: At the center of the storm. Russia strategically evolves its cyber operations](2017/APT28-Center-of-Storm-2017.pdf) | Jan | FireEeye |
-| [Foreign Cyber Threats to the United States](2017/UnitedStates_-Senate_Committee_-on_Armed_Services-Clapper-Lettre-Rogers.pdf) | Jan | NSA |
 | [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | Feb | BitDefender |
 | [KingSlayer A Supply chain attack](2017/kingslayer-a-supply-chain-attack.pdf) | Feb | RSA |
 | [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | Feb | US-CERT |
